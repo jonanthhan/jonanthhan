@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente estou aprendendo programação
 - 🌱 Estou estudando HTML, Python, C++ e JavaScript!
-- 📫 Você pode me encontrar no Telegram! (t.me/j0nata)
 
 <div align="center">
   <a href="https://github.com/jonanthhan">
